@@ -7,3 +7,8 @@ Aquí viene tu diario
 8:00 De camino a la oficina
 
 Cambio rama-pruebas
+rama-pruebas
+
+Cambio para merge remoto
+
+nueva-funcionalidad
